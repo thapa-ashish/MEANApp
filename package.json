@@ -1,0 +1,21 @@
+{
+  "name": "esms",
+  "version": "1.0.0",
+  "description": "esms app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Thapa",
+  "license": "ISC",
+  "dependencies": {
+    "angularjs": "0.0.1",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0"
+  }
+}
